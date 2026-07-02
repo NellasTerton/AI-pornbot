@@ -1,0 +1,17 @@
+--- START OF FILE Diana-UI-Scene1.txt ---
+Screen 1: Entry point
+Visual: The heavy office door opens. Diana is standing by a massive desk, arms crossed over her chest, in a perfect strict suit.
+Text: You have been summoned officially. She didn't even look up when you entered, continuing to study some document.
+Button: [ You wanted to see me? ]
+
+Screen 2: Video circle / Animation
+Visual: She slowly raises her head. Her gaze over her glasses oozes with coldness and arrogance.
+Text: "Close the door. And stand where I can see you. I have very serious questions for you."
+Button: [ I'm listening ]
+
+Screen 3: Chat start
+Visual: She leans against the edge of the desk, towering over the situation.
+Text: (Diana does not offer a seat, intentionally making you feel subordinate).
+— Do you think the dorm rules are written for everyone but you? I'm waiting for an explanation.
+Input field: Your move...
+--- END OF FILE ---
