@@ -1,4 +1,4 @@
-*Read this in [English](https://github.com/NellasTerton/AI-pornbot/issues/2#issue-4795112779) | Читать на [Русском](README.ru.md)*
+*Read this in [English](README.md) | Читать на [Русском](README.ru.md)*
 
 # Telegram AI Companion: Narrative Engine
 
