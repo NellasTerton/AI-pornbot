@@ -10,6 +10,21 @@
 ### 🎮 Playable Demo
 👉 **[Test the Bot directly in Telegram (@adult_ai_test_bot)](https://t.me/adult_ai_test_bot)**
 
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center"><b>UI (Интерфейс)</b></td>
+    <td align="center"><b>Видео (Flow)</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="1672" height="941" alt="ChatGPT Image 2 июл  2026 г , 17_41_57" src="https://github.com/user-attachments/assets/66e0e4bd-0568-437e-8f7a-d558e01bf37a" />
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/664605f7-556b-4916-819a-d914f470f749" width="280" controls autoplay loop muted></video>
+    </td>
+  </tr>
+</table>
+
 ## Overview
 This repository contains the **raw, production-used system prompts** and state machine logic for an 18+ character-driven AI companion inside a Telegram Mini App. 
 
