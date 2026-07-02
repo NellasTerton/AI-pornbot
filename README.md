@@ -1,4 +1,4 @@
-<img width="460" height="580" alt="image" src="https://github.com/user-attachments/assets/00f75f8f-23f1-47d3-939c-f5ab2171eae3" />*Read this in [English](README.md) | Читать на [Русском](README.ru.md)*
+*Читать на [Русском](README.ru.md) | Read this in [English](README.md)*
 
 # Telegram AI Companion: Narrative Engine
 
@@ -6,7 +6,9 @@
 **Platform:** Telegram PWA (Mini App)
 
 **Status:** In Dev  
-📱 [Try It](@adult_ai_test_bot)
+
+### 🎮 Playable Demo
+👉 **[Test the Bot directly in Telegram (@adult_ai_test_bot)](https://t.me/adult_ai_test_bot)**
 
 ## Overview
 This repository contains the **raw, production-used system prompts** and state machine logic for an 18+ character-driven AI companion inside a Telegram Mini App. 
